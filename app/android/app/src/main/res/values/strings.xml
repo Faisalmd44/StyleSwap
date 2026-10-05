@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">StyleSwap</string>
+    <string name="title_activity_main">StyleSwap</string>
+    <string name="package_name">com.styleswap.ai</string>
+    <string name="custom_url_scheme">com.styleswap.ai</string>
+</resources>
